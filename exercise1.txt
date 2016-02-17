@@ -1,0 +1,12 @@
+Text Div 1 and 2 are about 350
+Text Div 1 and 2 are about 310 now
+When floating them right, both div moved to the right and are now next to each other side by side in about 570 and 1200
+When floating them left, both div moved to the left and are now next to each other side by side in about 0 and 640
+When you change it to 600 px the divisions do not resize and begin to get cut off
+Div 2 (between 1 and 310) is now on the far left and div 1 (between 600 and 1200) is not on the far right
+TestDiv1 is now to long for the page and the beginning of the the test is cut off while testdiv2 is on the right underneath from 900-1200
+Testdiv2 is on the right from 330-760 and testdiv1 goes from 780-1200. Both are more centered
+When you resize the browser the Divs resize accordingly
+Completed step
+Completed step
+Completed step
